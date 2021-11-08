@@ -1,2 +1,3 @@
-# IBM_data_science
-Files from IBM Data Science Course
+# IBM Data Science Course
+
+This repository contains files used in IBM Course.
