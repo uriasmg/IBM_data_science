@@ -1,3 +1,7 @@
-# IBM Data Science Course
+# IBM Data Science
 
-This repository contains files used in IBM Course.
+This is the repository for my IBM Data Science Capstone Project
+
+Files here are subject to error and you're welcome in reaching me if you have any suggestion!
+
+contato@drmuller.com.br
